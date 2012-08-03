@@ -1,0 +1,12 @@
+This script can be used to swap custom hosts file in and out on a mac.
+
+
+
+Mac click searchlight and type terminal and hit enter, go to the directory where you
+downloaded this script, create a file called hosts.txt with your custom hosts entries then type:
+sudo ./macswapper.sh on
+To enable your custom hosts file
+
+sudo ./macswapper.sh off
+To disable your custom hosts file
+
